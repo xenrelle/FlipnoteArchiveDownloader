@@ -4,7 +4,7 @@
 // @match       https://archive.sudomemo.net/watch/*
 // @downloadURL https://github.com/xenrelle/FlipnoteArchiveDownloader/raw/main/archiveKWZ.user.js
 // @grant       GM_addStyle
-// @version     1.2
+// @version     1.3
 // @icon        https://archive.sudomemo.net/assets/favicon.png
 // @author      xenona
 // @description Allows you to download the KWZ Flipnote Studio 3D file from the archive.
@@ -18,6 +18,7 @@ GM_addStyle(`
 	.kwzButton dd {
 		color: var(--color-green-deepest);
 		font-weight: 700;
+		border-radius: 16px;
 	}
 
 	.ShareIcon.ShareIcon--hatena {
