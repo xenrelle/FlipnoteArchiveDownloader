@@ -3,7 +3,8 @@
 // @namespace   https://github.com/xenrelle/
 // @match       https://archive.sudomemo.net/watch/*
 // @grant       GM_addStyle
-// @version     1.0
+// @version     1.1
+// @icon        https://archive.sudomemo.net/assets/favicon.png
 // @author      xenona
 // @description Allows you to download the KWZ Flipnote Studio 3D file from the archive.
 // ==/UserScript==
