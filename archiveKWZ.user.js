@@ -2,8 +2,9 @@
 // @name        Flipnote Archive Downloader
 // @namespace   https://github.com/xenrelle/
 // @match       https://archive.sudomemo.net/watch/*
+// @downloadURL https://github.com/xenrelle/FlipnoteArchiveDownloader/raw/main/archiveKWZ.user.js
 // @grant       GM_addStyle
-// @version     1.1
+// @version     1.2
 // @icon        https://archive.sudomemo.net/assets/favicon.png
 // @author      xenona
 // @description Allows you to download the KWZ Flipnote Studio 3D file from the archive.
