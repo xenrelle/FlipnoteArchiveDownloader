@@ -18,6 +18,9 @@ GM_addStyle(`
 	.kwzButton dd {
 		color: var(--color-green-deepest);
 		font-weight: 700;
+	}
+	
+	.kwzButton {
 		border-radius: 16px;
 	}
 
